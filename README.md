@@ -40,3 +40,26 @@ Welcome to the MERN Stack Bookstore App! This is a full-stack web application th
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/shaheryar-ahmed-ten/bookStore.git
+
+2. **Install Dependencies:**
+    ```bash
+    # Install server dependencies
+    cd server
+    npm install (or yarn install)
+    # Install client dependencies
+    cd client
+    npm install (or yarn install)
+
+3. **Environment Variables:**
+    ```bash
+    PORT=4001
+    MongoDBURI="mongodb+srv://shaheryar:03062196090@cluster0.ctaho6d.mongodb.net/bookStore"
+
+4. **Run the App**
+    ```bash
+    # Start the server
+    cd server
+    npm start (or yarn start)
+    # Start the client (in a separate terminal)
+    cd client
+    npm start
