@@ -25,9 +25,6 @@ Welcome to the MERN Stack Bookstore App! This is a full-stack web application th
 5. **User Authentication:**
    - Users can create accounts (signup) to unlock premium features and personalize their experience.
 
-## Demo
-[Include a link to a live demo of your app, if available]
-
 ## Getting Started
 
 ### Prerequisites
