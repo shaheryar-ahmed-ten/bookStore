@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Mystery Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 12,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Historical Biography",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 18,
+        "category": "Non-Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction Anthology",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Self-Help Guide",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 9,
+        "category": "Self-Improvement",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Epic",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 24,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Travelogue",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 15,
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cookbook",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Poetry Collection",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 7,
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Young Adult Romance",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 11,
+        "category": "Young Adult",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Business Guide",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 21,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Graphic Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 16,
+        "category": "Comics & Graphic Novels",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Children's Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Art History Textbook",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 35,
+        "category": "Textbook",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 14,
+        "name": "True Crime Story",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 19,
+        "category": "True Crime",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Religious Text",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    }
+]
